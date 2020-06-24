@@ -1,6 +1,9 @@
-## Ahoy!
+# Ahoy!
 
 ## Olá e seja bem vindo ao tutorial de scikit-learn!
+
+Primeiramente, o que é o scikit learn?
+
 
 ### Markdown
 
